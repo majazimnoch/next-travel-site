@@ -6,7 +6,7 @@ export default function Home() {
     <div className="bg-black min-h-screen">
       <Head>
         <title>2Travel site</title>
-        <meta name="description" content="A simple travel website" />
+        <meta name="description" content="A simple travel test website" />
       </Head>
 
       <main className="container mx-auto py-10 px-4 flex flex-col items-center justify-center">
